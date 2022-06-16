@@ -15,7 +15,9 @@ Bongdev 계획
 
  - ubunts 20.04 
  - docker 설치  
-   - Apache
-   - MariaDB
-   - GitLab(git 관련)
-   - Jenkins
+   `````
+   1. Apache
+   2. MariaDB
+   3. GitLab(git 관련)
+   4. Jenkins
+   `````
